@@ -3,15 +3,18 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ## Task 1
 * Objective: analyze your industry and decide your primary and support activities
 ***
-* Your company's name:
+* Your company's name: BEAR
 ***
-* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):
+* Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):327213
 
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
 ***
 * Corporate name and total employees of the top 3 businesses (Click To View Corporate Businesses by Revenue):
+Owens-Illinois Inc, 26.500 employees
+Certainteed LLC, 6.000 employees
+Owens-Brockway Packaging Inc, 7.000 employees
 ***
-* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):
+* Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):278
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
 ***
