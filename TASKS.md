@@ -17,6 +17,12 @@ Owens-Brockway Packaging Inc, 7.000 employees
 * Number of businesses in your NAICS code from [Market Research](https://www.naics.com/market-research/):278
 ***
 * List of your company's primary activities divided into engineering activities and operations activities:
+- design of a bottle and the stupper 
+- choice of chemical composition : ingredients
+- processus of creation of the beer : brewing, fermentation, maturation
+- transfer to container 
+- fixation of the packaging 
+
 ***
 * List of your company's support activities:
 ***
