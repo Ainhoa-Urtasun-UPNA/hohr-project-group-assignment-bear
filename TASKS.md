@@ -25,6 +25,10 @@ Owens-Brockway Packaging Inc, 7.000 employees
 
 ***
 * List of your company's support activities:
+-human ressource management
+-technology development
+-planning, finance, legal,organisational structure
+-Procurement includes activities of purchasing the raw materials
 ***
 
 ## Task 2
