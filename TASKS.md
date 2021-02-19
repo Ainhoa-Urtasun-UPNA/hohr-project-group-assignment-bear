@@ -36,17 +36,26 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Objective: analyze and design your company's jobs using [ONET](https://www.onetonline.org/) 
 ***
 ### Managers
-* ONET-SOC code and title:
+* ONET-SOC code and title: 11-2032.00 - Public Relations Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
+- Assign, supervise, and review the activities of public relations staff.
+- Confer with labor relations managers to develop internal communications that keep employees informed of company activities. 
+- Design and edit promotional publications, such as brochures. See more occupations related to this task.
+- Develop and maintain the company's corporate image and identity, which includes the use of logos and signage.
+- Develop, implement, or maintain crisis communication plans.
+
 * Is this job routine? Your judgment (0-10):
+- no, it is a very diversified function ! around 8/10 about routine (with a 0 as a totally routine job) 
+
 * Is this job cognitive? Your judgment (0-10):
+
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 5 technology skills:
 * Education:
 * Wages:
 * Top industry:
 ### Engineers
-* ONET-SOC code and title: 15-1251.00
+* ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
