@@ -6,6 +6,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Your company's name: BEAR
 ***
 * Your company's NAICS (at least 4-digit) code and associated description from [NAICS Search](https://www.naics.com/search/):
+*
 *Important note: Your NAICS 4-digit code must start with 31, 32, or 33 (Manufacturing)*
   - Code: 327213
   - Description: This U.S. industry comprises establishments primarily engaged in manufacturing glass packaging containers.
@@ -25,10 +26,10 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
   - fixation of the packaging 
 ***
 * List of your company's support activities:
-- human ressource management
-- technology development
-- planning, finance, legal,organisational structure
-- Procurement includes activities of purchasing the raw materials
+  - human ressource management
+  - technology development
+  - planning, finance, legal,organisational structure
+  - Procurement includes activities of purchasing the raw materials
 ***
 
 ## Task 2
