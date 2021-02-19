@@ -46,7 +46,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Wages:
 * Top industry:
 ### Engineers
-* ONET-SOC code and title:
+* ONET-SOC code and title: 15-1251.00
 * 5 most important tasks they carry out (provide the importance score, in Details):
 * Is this job routine? Your judgment (0-10):
 * Is this job cognitive? Your judgment (0-10):
