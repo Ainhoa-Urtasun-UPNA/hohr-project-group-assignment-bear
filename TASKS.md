@@ -47,7 +47,8 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Is this job routine? Your judgment (0-10):
 - no, it is a very diversified function ! around 8/10 about routine (with a 0 as a totally routine job) 
 
-* Is this job cognitive? Your judgment (0-10):
+* Is this job cognitive? Your judgment (0-10): 
+- it is a cognitive function! around 7/10
 
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 5 technology skills:
