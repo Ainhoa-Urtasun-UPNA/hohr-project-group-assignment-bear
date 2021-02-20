@@ -51,7 +51,11 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 - it is a cognitive function! around 7/10
 
 * 5 most important skills they require to possess (provide the importance score, in Details):
--
+- Management of Financial Resources — Determining how money will be spent to get the work done, and accounting for these expenditures.
+- Management of Material Resources — Obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work.
+- Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.
+- Time Management — Managing one's own time and the time of others.
+
 * 5 technology skills:
 - customer relationship management CRM software 
 - Data base user interface and query software
