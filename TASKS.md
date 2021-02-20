@@ -51,10 +51,24 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 - it is a cognitive function! around 7/10
 
 * 5 most important skills they require to possess (provide the importance score, in Details):
+-
 * 5 technology skills:
+- customer relationship management CRM software 
+- Data base user interface and query software
+- Desktop publishing software
+- Electronic mail software
+- Graphics or photo imaging software
+
 * Education:
+- ? 
+
 * Wages:
+- Median wages (2019)	$55.86 hourly, $116,180 annual
+
 * Top industry:
+- Educational Services and other Services (Except Public Administration)
+
+
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
