@@ -76,17 +76,29 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
+- to encode 
+- the engineer must know the mechanism of the printer in order to manage any problem related to it
+
 * Is this job routine? Your judgment (0-10):7
-* Is this job cognitive? Your judgment (0-10):
+* Is this job cognitive? Your judgment (0-10):8
 * 5 most important skills they require to possess (provide the importance score, in Details):
+- the research and development is the most important
+- the design of the product has to be improve with the engineer
+- manufacturing also should not be underestimated
+- 
 * 5 technology skills
+- to code is important because they have to encode printer actions
+- knowledge about 3D printer mechanism and composition
+- research and development
+- design, manufacturing, 
+- exploitation,expertise
 * Education:
 * Wages:
 * Top industry:
 ### Operators
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):
+* Is this job routine? Your judgment (0-10):7 the 
 * Is this job cognitive? Your judgment (0-10):
 * 5 most important skills they require to possess (provide the importance score, in Details):
 * 5 technology skills:
