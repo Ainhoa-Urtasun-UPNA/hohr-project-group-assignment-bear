@@ -78,14 +78,16 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * 5 most important tasks they carry out (provide the importance score, in Details):
 - to encode 
 - the engineer must know the mechanism of the printer in order to manage any problem related to it
-
+- CAO design
+- 
 * Is this job routine? Your judgment (0-10):7
 * Is this job cognitive? Your judgment (0-10):8
 * 5 most important skills they require to possess (provide the importance score, in Details):
 - the research and development is the most important
+- -Basic knowledge of fluid mechanics and solid mechanics appreciated
 - the design of the product has to be improve with the engineer
 - manufacturing also should not be underestimated
-- 
+- CA0 design and production in 3D printing of various pico-turbine prototypes
 * 5 technology skills
 - to code is important because they have to encode printer actions
 - knowledge about 3D printer mechanism and composition
@@ -93,8 +95,8 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 - design, manufacturing, 
 - exploitation,expertise
 * Education:
-* Wages:
-* Top industry:
+* Wages:$43,586/hour 
+* Top industry: automotive and aerospace
 ### Operators
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
