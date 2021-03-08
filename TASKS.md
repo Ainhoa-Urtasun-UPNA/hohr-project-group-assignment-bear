@@ -127,6 +127,11 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ***
 You plan to start hiring workers next year. During this very first year, you are its only workers, all managers. Yearly staff movements were, on average, as follows: Out of 15 managers, 5 stayed in the same occupation, 5 moved to operators, and 5 left the firm; Out of 20 engineers, 10 stayed in the same occupation, 2 moved to managers, 5 moved to operators, and 3 left the firm; Out of 50 operators, 45 stayed in the same occupation and 5 left the firm. Using this information, predict how many managers, engineers, and operators you will have company will have in one year from now.
 ***
+For the calculation we considered our group of people for the b matrix as: 1 manager, 1 engineer and 2 operators.
+The result of the prediction are: 
+- 0 Manager (0.43333333);
+- 1 engeneer (0.5);
+- 2 operator (2.38333333).
 
 ## Task 4
 * Objective: forecast your firm's need for workers and anticipate mismatches using Python (click the black button at the top of the README.md file)
