@@ -98,12 +98,25 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 * Wages:$43,586/hour 
 * Top industry: automotive and aerospace
 ### Operators
-* ONET-SOC code and title:
+* ONET-SOC code and title: 
 * 5 most important tasks they carry out (provide the importance score, in Details):
-* Is this job routine? Your judgment (0-10):7 the 
-* Is this job cognitive? Your judgment (0-10):
-* 5 most important skills they require to possess (provide the importance score, in Details):
-* 5 technology skills:
+-Assist in the installation, maintenance, and repair of machinery.
+-Operate tools in order to aid in the manufacturing process.
+-Perform periodic checks on equipment and solve problems as detected.
+-Work with others in order to ensure that equipment is in proper working order.
+-Observe and follow company safety rules and regulations.
+* Is this job routine? Your judgment (0-10): 9, because they install their machines, operate them to aid in plant processes, and perform routine maintenance checks
+* Is this job cognitive? Your judgment (0-10):8, because the requirements are: High School Diploma/GED, a combination of additional education and experience. They must have some aptitudes for math, problem-solving, computers, and mechanics.
+
+* 5 most important skills they require to possess (provide the importance score, in Details):They should have attention to detail, ability to work and communicate well with others, proficiency with hand tools, willing to perform repetitive tasks for extended periods and also help ensure that all safety regulations are followed.
+
+
+* 5 technology skills: 
+-Programming languages
+-Data analysis
+-technical writing
+-Software proficiency
+-Common operating systems
 * Education:
 * Wages:
 * Top industry:
