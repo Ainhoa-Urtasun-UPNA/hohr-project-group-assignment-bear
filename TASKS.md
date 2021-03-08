@@ -38,62 +38,62 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
 ### Managers
 * ONET-SOC code and title: 11-2032.00 - Public Relations Managers
 * 5 most important tasks they carry out (provide the importance score, in Details):
-- Assign, supervise, and review the activities of public relations staff.
-- Confer with labor relations managers to develop internal communications that keep employees informed of company activities. 
-- Design and edit promotional publications, such as brochures. See more occupations related to this task.
-- Develop and maintain the company's corporate image and identity, which includes the use of logos and signage.
-- Develop, implement, or maintain crisis communication plans.
+  - Assign, supervise, and review the activities of public relations staff.
+  - Confer with labor relations managers to develop internal communications that keep employees informed of company activities. 
+  - Design and edit promotional publications, such as brochures. See more occupations related to this task.
+  - Develop and maintain the company's corporate image and identity, which includes the use of logos and signage.
+  - Develop, implement, or maintain crisis communication plans.
 
 * Is this job routine? Your judgment (0-10):
-- no, it is a very diversified function ! around 8/10 about routine (with a 0 as a totally routine job) 
+  - no, it is a very diversified function ! around 8/10 about routine (with a 0 as a totally routine job) 
 
 * Is this job cognitive? Your judgment (0-10): 
-- it is a cognitive function! around 7/10
+  - it is a cognitive function! around 7/10
 
 * 5 most important skills they require to possess (provide the importance score, in Details):
-- Management of Financial Resources — Determining how money will be spent to get the work done, and accounting for these expenditures.
-- Management of Material Resources — Obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work.
-- Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.
-- Time Management — Managing one's own time and the time of others.
+  - Management of Financial Resources — Determining how money will be spent to get the work done, and accounting for these expenditures.
+  - Management of Material Resources — Obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work.
+  - Management of Personnel Resources — Motivating, developing, and directing people as they work, identifying the best people for the job.
+  - Time Management — Managing one's own time and the time of others.
 
 * 5 technology skills:
-- customer relationship management CRM software 
-- Data base user interface and query software
-- Desktop publishing software
-- Electronic mail software
-- Graphics or photo imaging software
+  - customer relationship management CRM software 
+  - Data base user interface and query software
+  - Desktop publishing software
+  - Electronic mail software
+  - Graphics or photo imaging software
 
 * Education:
-- ? 
+  - ? 
 
 * Wages:
-- Median wages (2019)	$55.86 hourly, $116,180 annual
+  - Median wages (2019)	$55.86 hourly, $116,180 annual
 
 * Top industry:
-- Educational Services and other Services (Except Public Administration)
+  - Educational Services and other Services (Except Public Administration)
 
 
 ### Engineers
 * ONET-SOC code and title:
 * 5 most important tasks they carry out (provide the importance score, in Details):
-- to encode 
-- the engineer must know the mechanism of the printer in order to manage any problem related to it
-- CAO design
+  - to encode 
+  - the engineer must know the mechanism of the printer in order to manage any problem related to it
+  - CAO design
 - 
 * Is this job routine? Your judgment (0-10):7
 * Is this job cognitive? Your judgment (0-10):8
 * 5 most important skills they require to possess (provide the importance score, in Details):
-- the research and development is the most important
-- -Basic knowledge of fluid mechanics and solid mechanics appreciated
-- the design of the product has to be improve with the engineer
-- manufacturing also should not be underestimated
+  - the research and development is the most important
+  - -Basic knowledge of fluid mechanics and solid mechanics appreciated
+  - the design of the product has to be improve with the engineer
+  - manufacturing also should not be underestimated
 - CA0 design and production in 3D printing of various pico-turbine prototypes
 * 5 technology skills
-- to code is important because they have to encode printer actions
-- knowledge about 3D printer mechanism and composition
-- research and development
-- design, manufacturing, 
-- exploitation,expertise
+  - to code is important because they have to encode printer actions
+  - knowledge about 3D printer mechanism and composition
+  - research and development
+  - design, manufacturing, 
+  - exploitation,expertise
 * Education:
 * Wages:$43,586/hour 
 * Top industry: automotive and aerospace
