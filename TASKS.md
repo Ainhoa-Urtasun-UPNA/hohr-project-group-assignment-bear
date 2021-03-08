@@ -116,11 +116,11 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
   - Help ensure that all safety regulations are followed.
 
 * 5 technology skills: 
-  -Programming languages
-  -Data analysis
-  -technical writing
-  -Software proficiency
-  -Common operating systems
+  - Programming languages
+  - Data analysis
+  - technical writing
+  - Software proficiency
+  - Common operating systems
   
 * Education:
 * Wages:
