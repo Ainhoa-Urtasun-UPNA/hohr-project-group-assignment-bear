@@ -143,9 +143,12 @@ The result of the prediction are:
 ***
 Last three years data on unemployment for managers was 15%, 17% and 14% for managers; 6%, 6%, 5% for engineers; and 23%, 27%, and 25% for operators. Last three years, the need for workers on average and per firm was 4, 6, 5 for managers; 13, 12, 13 for engineers; and 7, 7, 9 for operators. Using this information, predict how many workers your company will need in one year from now for each of its 3 occupations if unemployment is predicted to be 10% for managers, 4% for engineers, and 20% for operators. 
 
-Last but not least, for each occupation, compare your predictions to anticipate mismatches.
+Last but not least, for each occupation, compare your predictions to anticipate mismatches
+***
+
 The rusults for the betas are [0,125 ; 3,0833 ; 11, 958 ; 4,591] 
 We will need 4 managers (4,33) , 12 enginners (12,458) and 7 operators (7.04166).
+
 ***
 
 ## Task 5
