@@ -155,6 +155,34 @@ We will need 4 managers (4,33) , 12 enginners (12,458) and 7 operators (7.04166)
 * Objective: Post 1 job vacancy for each occupation to work on remote by describing the tasks and skills required. Use [Indeed](https://www.indeed.com/l-Remote-jobs.html) for help.
 ***
 ### Job posting for Managers:
+
+BEAR is growing ! 
+We're excited to announce that we're looking to extend our team, in order to improve our productivity and engagement toward our clients. 
+
+Join us in our mission to elevate customer experiences for good-living people all around the globe. As a member of BEAR managing team, you will be part of a global experience company that believes in being people-first, celebrating diversity and incubating innovation. Our dedication to our purpose and people is being recognized by our employees and the industry.
+
+Position Purpose ? 
+The manager in operations is responsible for the daily oversight and management of a team of supervisors charged with achieving client deliverables through high performance teams of customer care representatives.  The Manager also has significant client facing interaction. 
+
+Job Requirements : 
+- Monitor, track and evaluate supervisor performance based upon pre-determined Key Performance Indicators (KPI’s) and provide personal ongoing support and feedback to supervisors to ensure all client deliverables are met and Everise standards are adhered to. 
+- Be a regular presence on the production floor and actively interact with supervisors and associates to ensure that they are engaged in productive work and systems are functioning properly
+- Responsible for upward and downward communication both internally and as required to the client
+- interact with clients demonstrating engaged leadership and detail orientation
+- Responsible for creation and implementation of incentive programs
+
+Who do we need ? 
+- Master in Management graduated (business school or university) 
+- sof skills : natural leader, excellent oral and written communication skills, rigor, hardworking, flexibility, multitasking, organized
+- preferable experience in the filled of management
+
+This job position comes with a 50 000E salary base, negociable according to the experience of the candidate. We will test the ability of the candidate to manage a team, through a serie of test in order to analyse his personality and his ability to work effectively in a time-limited environment. 
+
+Are you a motivated, reliable and organised worker ? We're expecting you in BEAR ! 
+
+
+
+
 ### Job posting for Engineers:
 ### Job posting for Operators:
 ***
