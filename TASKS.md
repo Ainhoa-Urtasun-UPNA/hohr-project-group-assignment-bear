@@ -146,7 +146,7 @@ Last three years data on unemployment for managers was 15%, 17% and 14% for mana
 Last but not least, for each occupation, compare your predictions to anticipate mismatches
 ***
 
-The rusults for the betas are [0,125 ; 3,0833 ; 11, 958 ; 4,591] 
+The results for the betas are [0,125 ; 3,0833 ; 11, 958 ; 4,591] 
 We will need 4 managers (4,33) , 12 enginners (12,458) and 7 operators (7.04166).
 
 ***
@@ -160,6 +160,8 @@ BEAR is growing !
 We're excited to announce that we're looking to extend our team, in order to improve our productivity and engagement toward our clients. 
 
 Join us in our mission to elevate customer experiences for good-living people all around the globe. As a member of BEAR managing team, you will be part of a global experience company that believes in being people-first, celebrating diversity and incubating innovation. Our dedication to our purpose and people is being recognized by our employees and the industry.
+
+For the manager position, we are only recruting four person, Will you be part of the team ? 
 
 Position Purpose ? 
 The manager in operations is responsible for the daily oversight and management of a team of supervisors charged with achieving client deliverables through high performance teams of customer care representatives.  The Manager also has significant client facing interaction. 
@@ -176,7 +178,8 @@ Who do we need ?
 - sof skills : natural leader, excellent oral and written communication skills, rigor, hardworking, flexibility, multitasking, organized
 - preferable experience in the filled of management
 
-This job position comes with a 50 000E salary base, negociable according to the experience of the candidate. We will test the ability of the candidate to manage a team, through a serie of test in order to analyse his personality and his ability to work effectively in a time-limited environment. 
+This job position comes with a 70 000E salary base, negociable according to the experience of the candidate.
+The automation risk pourcentage is (NEED TO FIND THAT NUMBER !!!!!!!!). We will test the ability of the candidate to manage a team, through a serie of test in order to analyse his personality and his ability to work effectively in a time-limited environment. 
 
 Are you a motivated, reliable and organised worker ? We're expecting you in BEAR ! 
 
