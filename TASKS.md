@@ -64,7 +64,7 @@ This writing uses Markdown, for help go to [Mastering Markdown](https://guides.g
   - Graphics or photo imaging software
 
 * Education:
-  - ? 
+  - master in management (university or business school) 
 
 * Wages:
   - Median wages (2019)	$55.86 hourly, $116,180 annual
