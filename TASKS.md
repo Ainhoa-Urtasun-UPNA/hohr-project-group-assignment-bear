@@ -186,7 +186,7 @@ Are you a motivated, reliable and organised worker ? We're expecting you in BEAR
 
 
 
-### Job posting for Engineers:
+### Job posting for Computer Engineers:
 BEAR is growing ! 
 We're excited to announce that we're looking to extend our team, in order to improve our productivity and engagement toward our clients. 
 Join us in our mission to elevate customer experiences for good-living people all around the globe. As a member of BEAR engineering team, you will have the chance to serve as a lead industrial engineering in data processing and coding. So join us in our mission to improve the way of making the bear beer bottle.
@@ -194,6 +194,11 @@ Position purpose:
 An enterprise engineer's duties include implementing secure and scalable systems, drive tactical and strategic initiatives with product managers, build business performance metrics, and create interfaces for high-quality tools and complex systems. Also the engineer in our enterprise has to know how to code for the machines to make the design of the bottle perfectly.
 Job Requirements : 
 The engineer must be able to exercise creative thinking to devise new systems and innovative ways to work, he also msut be able to use standard equipment and tools necessary for the role. The engineer for our compagny has to know at least three different language in code for the make of the bottles. As we have 3D printer specialized in the making of our bottles the engineer must understand mechanical concepts and processes of the machines easily.
+Experience required:
+Bachelor's degree, Master's degree or high school degree
+Salary for our computer engineers:
+The salary of our computer engineers amounts to 55 000€ can vary between candidates experience
+The automation risk of an engineer is 
 ### Job posting for Operators:
 ***
 
