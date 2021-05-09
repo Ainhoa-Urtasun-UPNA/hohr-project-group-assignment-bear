@@ -179,7 +179,7 @@ Who do we need ?
 - preferable experience in the filled of management
 
 This job position comes with a 70 000E salary base, negociable according to the experience of the candidate.
-The automation risk pourcentage is (NEED TO FIND THAT NUMBER !!!!!!!!). We will test the ability of the candidate to manage a team, through a serie of test in order to analyse his personality and his ability to work effectively in a time-limited environment. 
+The automation risk pourcentage is 12%. We will test the ability of the candidate to manage a team, through a serie of test in order to analyse his personality and his ability to work effectively in a time-limited environment. 
 
 Are you a motivated, reliable and organised worker ? We're expecting you in BEAR ! 
 
