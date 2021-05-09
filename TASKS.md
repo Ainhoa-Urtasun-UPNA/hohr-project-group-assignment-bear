@@ -200,6 +200,27 @@ Salary for our computer engineers:
 The salary of our computer engineers amounts to 55 000€ but can vary between candidates experience.
 The automation risk of an engineer is 
 ### Job posting for Operators:
+Position purpose ? 
+
+The tasks of a production operator are to drive the machine and follow the good progress of the manufacture by respecting the standards of productivity, safety and quality. They have to control the quality of the bottle at the exit of the machine and to put away the parts, to visualize the finished product, to adapt and to solve quickly the small problems of manufacture, to control the quality of the parts by respecting the standards, and also to locate the defects.
+
+Job requirements : 
+-Attention to detail: A operator must be able to concentrate and be precise in your work. Also, precision is key in all these jobs.
+-Physical strength and stamina.
+-Analytical skills
+-Good communication skills ( to communicate well with the others ). 
+-Computer skills
+-Willing to perform repetitive tasks for extended periods
+
+
+Education:
+The operator will need a high school diploma and have some mathematicals skills and a technical degree. 
+
+
+The average machine operator makes about $28,400 per year. That's $13.65 per hour.  
+ 
+
+Are you a authentic and meticulous worker ? We're expecting you in BEAR !
 ***
 
 ## Task 6
