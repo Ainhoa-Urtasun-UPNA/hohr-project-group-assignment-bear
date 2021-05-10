@@ -1,6 +1,6 @@
 # BEAR
 
-<img width="1000" alt="img1" src="https://user-images.githubusercontent.com/78742248/117626033-f800ee80-b176-11eb-8b38-1c954f8d950d.png">
+<img width="1600" alt="img1" src="https://user-images.githubusercontent.com/78742248/117626033-f800ee80-b176-11eb-8b38-1c954f8d950d.png">
 <img width="960" alt="img2" src="https://user-images.githubusercontent.com/78742248/117627169-2d5a0c00-b178-11eb-976e-0d96b5f67566.png">
 <img width="960" alt="img3" src="https://user-images.githubusercontent.com/78742248/117627170-2d5a0c00-b178-11eb-8d36-c7384aaa5cac.png">
 <img width="960" alt="img4" src="https://user-images.githubusercontent.com/78742248/117627172-2df2a280-b178-11eb-97a2-318ea59082bd.png">
