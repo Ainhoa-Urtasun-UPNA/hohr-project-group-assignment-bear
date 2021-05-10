@@ -16,6 +16,7 @@
  # JOB POSTING 
 
 <img width="960" alt="2021-05-10 (28)" src="https://user-images.githubusercontent.com/78742248/117663034-8047b980-b1a0-11eb-87ca-4efd30a49376.png">
-<img width="960" alt="2021-05-10 (29)" src="https://user-images.githubusercontent.com/78742248/117663036-80e05000-b1a0-11eb-9cf1-25eeb0c6ed02.png">
-<img width="960" alt="2021-05-10 (30)" src="https://user-images.githubusercontent.com/78742248/117663037-80e05000-b1a0-11eb-8915-ba132f59fb22.png">
+<img width="960" alt="2021-05-10 (34)" src="https://user-images.githubusercontent.com/78742248/117665878-960aae00-b1a3-11eb-99b2-6d5f0c2daa10.png">
+<img width="960" alt="2021-05-10 (35)" src="https://user-images.githubusercontent.com/78742248/117665883-973bdb00-b1a3-11eb-91a6-61cf50122407.png">
 <img width="960" alt="2021-05-10 (31)" src="https://user-images.githubusercontent.com/78742248/117663040-8178e680-b1a0-11eb-8019-4cacff90e01d.png">
+
